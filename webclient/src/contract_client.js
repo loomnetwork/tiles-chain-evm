@@ -1,7 +1,7 @@
 import {
   NonceTxMiddleware, SignedTxMiddleware, Client,
   Contract, Address, LocalAddress, CryptoUtils, LoomProvider
-} from './loom.umd'
+} from 'loom-js'
 
 import Web3 from 'web3'
 

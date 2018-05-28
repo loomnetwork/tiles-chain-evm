@@ -2,7 +2,6 @@ import 'pixi'
 import 'p2'
 import * as Phaser from 'phaser'
 import ContractClient from './contract_client'
-import { CryptoUtils } from './loom.umd'
 
 const colors = [
   {r: 255, g: 0  , b: 0  },
