@@ -1,3 +1,8 @@
+
+# Deprecated Repository
+
+This repository is **deprecated and no longer maintained**. Head over to the [Truffle DappChain Example](https://github.com/loomnetwork/truffle-dappchain-example) repository to learn how to build a simple web UI that interacts with Loom PlasmaChain.
+
 # Tiles Chain EVM
 
 A basic example showcasing a simple HTML5 + WebSockets interacting with a Loom DappChain, using [Phaser](http://phaser.io) and [Loom.js](https://github.com/loomnetwork/loom-js), this time using Web3 and Loom Provider to create seamlessly experience for Ethereum Developers
